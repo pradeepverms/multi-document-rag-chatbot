@@ -19,15 +19,14 @@ This project demonstrates how to build a **fully offline RAG system** without us
 
 ## 📸 Demo Screenshots
 
-### 🔹 Upload PDFs
+### Upload PDFs
 ![Upload PDFs](WhatsApp Image 2025-12-31 at 00.41.23.jpeg)
 
-### 🔹 Ask Questions
+### Ask Questions
 ![Ask Questions](WhatsApp Image 2025-12-31 at 00.41.33.jpeg)
 
-### 🔹 Answer Generation
+### Answer Generation
 ![Answer Generation](WhatsApp Image 2025-12-31 at 00.41.40.jpeg)
-
 
 ## 🧠 Tech Stack
 
