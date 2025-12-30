@@ -1,3 +1,4 @@
+This project is actively used as a portfolio project for AI/Data Science internships.
 # Multi-Document RAG Chatbot (Local LLM)
 
 A production-ready **Retrieval-Augmented Generation (RAG)** chatbot that allows users to upload multiple PDFs and ask contextual questions using a **local LLM (Ollama + LLaMA 3)**.
