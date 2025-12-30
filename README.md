@@ -17,7 +17,17 @@ This project demonstrates how to build a **fully offline RAG system** without us
 - Interactive **Streamlit Chat UI**
 - No internet or paid API required
 
----
+## 📸 Demo Screenshots
+
+### 🔹 Upload PDFs
+![Upload PDFs](WhatsApp Image 2025-12-31 at 00.41.23.jpeg)
+
+### 🔹 Ask Questions
+![Ask Questions](WhatsApp Image 2025-12-31 at 00.41.33.jpeg)
+
+### 🔹 Answer Generation
+![Answer Generation](WhatsApp Image 2025-12-31 at 00.41.40.jpeg)
+
 
 ## 🧠 Tech Stack
 
